@@ -1,0 +1,25 @@
+2025-07-28 13:42:32.250 -03:00 [INF] Microsoft.Extensions.Diagnostics.HealthChecks.HealthCheckService Health Check enabled at: '/health'
+2025-07-28 13:42:32.309 -03:00 [INF] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager User profile is available. Using '/Users/thalescabral/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2025-07-28 13:42:32.314 -03:00 [INF] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager Creating key {1650e9ec-176f-428c-b536-93abbd8664d6} with creation date 2025-07-28 16:42:32Z, activation date 2025-07-28 16:42:32Z, and expiration date 2025-10-26 16:42:32Z.
+2025-07-28 13:42:32.322 -03:00 [INF] Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository Writing data to file '/Users/thalescabral/.aspnet/DataProtection-Keys/key-1650e9ec-176f-428c-b536-93abbd8664d6.xml'.
+2025-07-28 13:42:32.349 -03:00 [INF] Microsoft.Hosting.Lifetime Now listening on: http://localhost:5119
+2025-07-28 13:42:32.349 -03:00 [INF] Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2025-07-28 13:42:32.349 -03:00 [INF] Microsoft.Hosting.Lifetime Hosting environment: Development
+2025-07-28 13:42:32.349 -03:00 [INF] Microsoft.Hosting.Lifetime Content root path: /Users/thalescabral/Downloads/0 (10)/template/backend/src/Ambev.DeveloperEvaluation.WebApi
+2025-07-28 13:47:45.781 -03:00 [INF] Microsoft.Hosting.Lifetime Application is shutting down...
+2025-07-28 13:51:00.312 -03:00 [INF] Microsoft.Extensions.Diagnostics.HealthChecks.HealthCheckService Health Check enabled at: '/health'
+2025-07-28 13:51:00.363 -03:00 [INF] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager User profile is available. Using '/Users/thalescabral/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2025-07-28 13:51:00.391 -03:00 [INF] Microsoft.Hosting.Lifetime Now listening on: http://localhost:5119
+2025-07-28 13:51:00.391 -03:00 [INF] Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2025-07-28 13:51:00.391 -03:00 [INF] Microsoft.Hosting.Lifetime Hosting environment: Development
+2025-07-28 13:51:00.391 -03:00 [INF] Microsoft.Hosting.Lifetime Content root path: /Users/thalescabral/Downloads/0 (10)/template/backend/src/Ambev.DeveloperEvaluation.WebApi
+2025-07-28 13:53:03.158 -03:00 [INF] Microsoft.Hosting.Lifetime Application is shutting down...
+2025-07-28 13:53:21.562 -03:00 [INF] Microsoft.Extensions.Diagnostics.HealthChecks.HealthCheckService Health Check enabled at: '/health'
+2025-07-28 13:53:21.637 -03:00 [INF] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager User profile is available. Using '/Users/thalescabral/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2025-07-28 13:53:21.670 -03:00 [INF] Microsoft.Hosting.Lifetime Now listening on: http://localhost:5119
+2025-07-28 13:53:21.671 -03:00 [INF] Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2025-07-28 13:53:21.671 -03:00 [INF] Microsoft.Hosting.Lifetime Hosting environment: Development
+2025-07-28 13:53:21.671 -03:00 [INF] Microsoft.Hosting.Lifetime Content root path: /Users/thalescabral/Downloads/0 (10)/template/backend/src/Ambev.DeveloperEvaluation.WebApi
+2025-07-28 13:53:38.729 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request starting HTTP/1.1 GET http://localhost:5119/favicon.ico - null null
+2025-07-28 13:53:38.731 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request finished HTTP/1.1 GET http://localhost:5119/favicon.ico - 404 0 null 1.7177ms
+2025-07-28 13:53:38.733 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5119/favicon.ico, Response status code: 404
