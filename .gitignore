@@ -1,0 +1,77 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.generated.cs
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Packages
+*.nupkg
+*.snupkg
+.nuget/
+
+# Visual Studio temporary files
+*.cache
+*.ilk
+*.log
+*.pdb
+*.ipch/
+*.aps
+*.pch
+*.dll
+*.exe
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+
+# Test results
+TestResults/
+
+# Publish output
+publish/
+
+# Entity Framework Core Migrations History
+Migrations/
+
+# Azure DevOps build outputs
+*.build.csdef
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Others
+*.vs/
+.vs/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# JetBrains Rider
+.idea/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Others
+*.class
